@@ -13,9 +13,9 @@ namespace Practica_2
             Console.WriteLine("");
             int Age = 21;
             string Name = "Maria del Carmen Sanchez";
-            string Country = "Alemania";
+            string Country = "Mexicali";
 
-            Console.WriteLine("Mi edad es: {0} \nMi nombre es: {1} \nY me gustaria conocer el pais de: {2}", Age, Name, Country);
+            Console.WriteLine("Mi edad es: {0} \nMi nombre es: {1} \nY naci en: {2}", Age, Name, Country);
             Console.ReadKey();
         }
     }
